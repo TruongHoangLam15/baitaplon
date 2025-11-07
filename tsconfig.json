@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "components/MiniPlayer.js.js", "server/models/User.js", "server/models/Song.js", "components/TabBar.js", "app/signup.js", "app/settings.js", "app/search.js", "app/favorites.js", "app/artist.js", "app/recent.js", "app/profile.js", "app/playlist.js", "app/login.js", "context/PlayerContext.js", "app/index.js", "app/_layout.js", "app/home.js", "app/player.js"  ]
 }
